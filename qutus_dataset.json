@@ -58,20 +58,6 @@
   {
     "answers": {
       "answer_start": [
-        
-      ],
-      "text": [
-        "One in 10 Americans still cannot find work. Many businesses have shuttered. Home values have declined. Small towns and rural communities have been hit especially hard. for those who already known poverty, life has become that much harder."
-      ]
-    },
-    "context": "In his first State of the Union address, President Obama actually talked about the state of the union. He gave voice to our hopes and values, but he also sees what I see:, economic devastation. \"One in 10 Americans still cannot find work. Many businesses have shuttered. Home values have declined. Small towns and rural communities have been hit especially hard. For those who had already known poverty, life has become that much harder.\"",
-    "id": "5",
-    "question": "He gave voice to our hopes and values, but he also sees what I see:, economic devastation.",
-    "title": "<OPTION>"
-  },
-  {
-    "answers": {
-      "answer_start": [
         160
       ],
       "text": [
@@ -1901,20 +1887,6 @@
     "context": "Because of this agreement, middle-class Americans won,t see their taxes go up on January 1, which is what I promised—a promise I made during the campaign, a promise I made as President, Obama said, ignoring his more frequently-stated promise that he would let the tax cuts for the rich expire. Because of this agreement, two million Americans who lost their jobs and are looking for work will be able to pay their rent and put food on their table.",
     "id": "803",
     "question": "Because of this agreement, middle-class Americans won’t see their taxes go up on January 1, which is what I promised—a promise I made during the campaign, a promise I made as President, Obama said, ignoring his more frequently-stated promise that he would let the tax cuts for the rich expire.",
-    "title": "<OPTION>"
-  },
-  {
-    "answers": {
-      "answer_start": [
-        
-      ],
-      "text": [
-        "This is real money for real people that will make a real difference in the lives of the folks who sent us here,"
-      ]
-    },
-    "context": "WASHINGTON, Dec 7 (Reuters) -U.S. President Barack Obama said on Tuesday the tentative tax deal he struck with Republicans is a good deal for the American people and a long political fight over tax cuts would have been bad for the U.S. economy.This is real money for real people that will make a real difference in the lives of the folks who sent us here,",
-    "id": "804",
-    "question": "WASHINGTON, Dec 7 (Reuters) -U.S. President Barack Obama said on Tuesday the tentative tax deal he struck with Republicans is a good deal for the American people and a long political fight over tax cuts would have been bad for the U.S. economy.",
     "title": "<OPTION>"
   },
   {
