@@ -828,10 +828,10 @@
   {
     "answers": {
       "answer_start": [
-        " I'm a big believer in persistence. I"
+        187
       ],
       "text": [
-        187
+        "I'm a big believer in persistence"
       ]
     },
     "context": "If you stick to it, if you are persistent, than these problems can be dealt with, he says of the Middle East. That's an approach, Obama says, he is going to be emphasizing again and again. ... I'm a big believer in persistence when it comes to tackling issues from the economy to the budget to the environment.",
@@ -1901,20 +1901,6 @@
     "context": "That an administration would promote polling data backing its policy preferences is normally not an astounding revelation. But the private push of the Gallup study struck the Senate aide as depressing if not counter-productive. Even as the president was insisting that he thought an extension of rates for the wealthy is poor economics -- I'm as opposed to the high-end tax cuts today as I've been for years,",
     "id": "805",
     "question": "But the private push of the Gallup study struck the Senate aide as depressing if not counter-productive. Even as the president was insisting that he thought an extension of rates for the wealthy is poor economics -- ",
-    "title": "<OPTION>"
-  },
-  {
-    "answers": {
-      "answer_start": [
-        
-      ],
-      "text": [
-        "[But] I’m as opposed to the high-end tax cuts today as I’ve been for years. In the long run, we simply can’t afford them. And when they expire in two years, I will fight to end them."
-      ]
-    },
-    "context": "Though Obama did accept the deal with the GOP, he proved to be a rather disagreeable compromiser, calling Republicans hostage takers and the American people the hostages. Obama thus not only reneged on an oft-repeated campaign promise to repeal the Bush-era tax cuts for the rich, he also proved utterly ungracious to those lawmakers with whom he had just struck a deal. [B]ecause of this agreement, middle-class Americans won’t see their taxes go up on January 1st, which is what I promised, he said. [But] I’m as opposed to the high-end tax cuts today as I’ve been for years. In the long run, we simply can’t afford them. And when they expire in two years, I will fight to end them.",
-    "id": "806",
-    "question": "[B]ecause of this agreement, middle-class Americans won’t see their taxes go up on January 1st, which is what I promised, he said.",
     "title": "<OPTION>"
   },
   {
